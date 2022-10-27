@@ -32,8 +32,8 @@ img {
 
 /*avatar/profile image*/
 .img-ava, img[alt=logo] {
-  height: 500px;
-  width: 500px;
+  height: 50%;
+  width: 50%;
   border-radius: 50px;
   margin-bottom: 30px;
 }
