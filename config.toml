@@ -10,7 +10,8 @@ disableHugoGeneratorInject = true
 theme = 'hugo-theme-red-rose'
 
 [params]
-ava = "/img/mawar.png"
+ava = "/img/logo.png"
+description = 'Aarone Books, Games, and More'
 
 [module]
   [module.hugoVersion]

@@ -4,6 +4,6 @@ date: 2022-08-24
 draft: false
 tags: ["games"]
 ---
-![mawar](/img/mawar.png)
+![logo](/img/logo.png)
 
 This is our first real post
