@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Aarone Books, Games, and More</title>
+    <link>https://aaronebooksgamesandmore.com/tags/</link>
+    <description>Recent content in Tags on Aarone Books, Games, and More</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aaronebooksgamesandmore.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>games</title>
+      <link>https://aaronebooksgamesandmore.com/tags/games/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronebooksgamesandmore.com/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>start</title>
+      <link>https://aaronebooksgamesandmore.com/tags/start/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronebooksgamesandmore.com/tags/start/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

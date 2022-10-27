@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Aarone Books, Games, and More</title>
+    <link>https://aaronebooksgamesandmore.com/blog/</link>
+    <description>Recent content in Blog on Aarone Books, Games, and More</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aaronebooksgamesandmore.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>https://aaronebooksgamesandmore.com/blog/mawar/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronebooksgamesandmore.com/blog/mawar/</guid>
+      <description>This is us getting started</description>
+    </item>
+    
+    <item>
+      <title>Our first real Post</title>
+      <link>https://aaronebooksgamesandmore.com/blog/rose/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronebooksgamesandmore.com/blog/rose/</guid>
+      <description>This is our first real post</description>
+    </item>
+    
+  </channel>
+</rss>

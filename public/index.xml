@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aarone Books, Games, and More</title>
+    <link>https://aaronebooksgamesandmore.com/</link>
+    <description>Recent content on Aarone Books, Games, and More</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aaronebooksgamesandmore.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://aaronebooksgamesandmore.com/about/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronebooksgamesandmore.com/about/</guid>
+      <description>baseURL = &amp;#39;https://aaronebooksgamesandmore.com&amp;#39; languageCode = &amp;#39;en-us&amp;#39; title = &amp;#39;Aarone Books, Games, and, More&amp;#39; PygmentsCodeFences = true PygmentsStyle = &amp;#34;solarized-dark256&amp;#34; pluralizelisttitles = &amp;#34;false&amp;#34; paginate = 18 disableHugoGeneratorInject = true [params] ava = &amp;#34;/img/mawar.png&amp;#34; We are passionate about books and board games. We&amp;rsquo;re excited to share them with you.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://aaronebooksgamesandmore.com/contact/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronebooksgamesandmore.com/contact/</guid>
+      <description>Mail me : info@aaronebooksgamesandmore.com</description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://aaronebooksgamesandmore.com/blog/mawar/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronebooksgamesandmore.com/blog/mawar/</guid>
+      <description>This is us getting started</description>
+    </item>
+    
+    <item>
+      <title>Our first real Post</title>
+      <link>https://aaronebooksgamesandmore.com/blog/rose/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronebooksgamesandmore.com/blog/rose/</guid>
+      <description>This is our first real post</description>
+    </item>
+    
+  </channel>
+</rss>

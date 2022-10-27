@@ -1,0 +1,18 @@
+baseURL = 'https://aaronebooksgamesandmore.com'
+languageCode = 'en'
+title = 'Aarone Books, Games, and More'
+PygmentsCodeFences = true
+PygmentsStyle = "solarized-dark256"
+pluralizelisttitles = "false"
+paginate  = 18
+disableHugoGeneratorInject = true
+
+theme = 'hugo-theme-red-rose'
+
+[params]
+ava = "/img/mawar.png"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
